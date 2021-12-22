@@ -47,3 +47,5 @@ THEN I find a concise, descriptive title
 * Repository contains multiple descriptive commit messages.
 
 * Repository contains quality README file with description, screenshot, and link to deployed application.
+
+![Screenshot of deployed site.](.assets/images/Screenshot (6).png)
