@@ -1,4 +1,4 @@
-# Code Refactor
+# Horiseon Code Refactor
 
 This is a webpage for a marketing company, Horiseon Social Solution Services, Inc. I have refactored the code to have alt attributes for accessibility and cleaned up/organized the CSS by creating new classes in the HTML and consolidating the CSS selectors and properties. 
 
