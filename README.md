@@ -48,4 +48,4 @@ THEN I find a concise, descriptive title
 
 * Repository contains quality README file with description, screenshot, and link to deployed application.
 
-![Screenshot of deployed site.](.assets/images/Screenshot (6).png)
+![Screenshot of deployed site.](https://raw.githubusercontent.com/amachkel/horiseon-code-refactor/main/assets/images/Screenshot%20(6).png)
