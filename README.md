@@ -48,4 +48,9 @@ THEN I find a concise, descriptive title
 
 * Repository contains quality README file with description, screenshot, and link to deployed application.
 
+
 ![Screenshot of deployed site.](https://raw.githubusercontent.com/amachkel/horiseon-code-refactor/main/assets/images/Screenshot%20(6).png)
+
+## Deployed application
+
+https://amachkel.github.io/horiseon-code-refactor/
